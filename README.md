@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaranyaMariappan-1592
+- 👋 Hi, I’m @Saranya Mariappan
 - 👀 I’m interested in ... Full Stack developement 
 - 🌱 I’m currently learning ... Cloud Technologies
 - 💞️ I’m looking to collaborate on ... Fullstack Angular ReactJS
